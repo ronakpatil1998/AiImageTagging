@@ -203,6 +203,13 @@ foreach (var image in images)
 
 ---
 
+## ▶️ Prepare your Folders
+Open your File Explorer and create two specific folders on your C: drive (or anywhere easy to find):
+
+C:\Photos\Unsorted → Put 5-10 new images here that the AI hasn't seen yet.
+
+C:\Photos\Sorted → Leave this empty.
+
 ## ▶️ Phase 5: Run the Application
 
 * Press **F5** in Visual Studio
@@ -222,7 +229,7 @@ Processing IMG_002.jpg → Car
 Your images will be automatically organized like:
 
 ```
-Output/
+Sorted/
 ├── Dog/
 ├── Car/
 ├── Mountain/
