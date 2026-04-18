@@ -257,3 +257,4 @@ This project demonstrates how to:
 ✔ Automate real-world tasks
 
 ---
+<video controls src="AI-Image-Tagging.mp4" title="Title"></video>
